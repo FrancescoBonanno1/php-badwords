@@ -8,5 +8,6 @@
 </head>
 <body>
     <?php echo $Bisciabu . "Boolean!"?>
+    <span> ciao</span>
 </body>
 </html>
